@@ -6,8 +6,8 @@
 </div>
 
 <br/>
-<h3 align="center"> 조이시티 플랫폼실 솔루션 개발팀에 근무중인 권순욱 입니다. </h3>
 <br/>
+<div align="center"><strong> 조이시티 플랫폼실 솔루션 개발팀에 근무중인 권순욱 입니다.</strong> </div>
 <br/>
 <br/>
 
