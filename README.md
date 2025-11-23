@@ -32,11 +32,8 @@
   <!--DB,CI&CD-->
   <!--Mysql-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <!--AWS-->
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <!--GithubActions-->
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  
 <br/>
 <br/>
 
