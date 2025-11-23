@@ -5,12 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-wook&layout=compact"
 </div>
 
-<br/>
-<br/>
-<div align="center"><strong> 조이시티 플랫폼실 솔루션 개발팀에 근무중인 권순욱 입니다.</strong> </div>
-<br/>
-<br/>
-
 
 <!--내용 부분-->
 <h3 align="center">💁 Tech Stack </h3>
